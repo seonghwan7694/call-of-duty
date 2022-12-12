@@ -6,3 +6,5 @@
 |    iPhone plus   | 1,800,000 |             X            |
 |    apple watch   |  700,000  |             X            |
 |    4k monitor    |  500,000  |            2ea           |
+|  CalDigit Element Dock  | 385,000 | X |
+| Synology Nas + HDD | 400,000 | X |
